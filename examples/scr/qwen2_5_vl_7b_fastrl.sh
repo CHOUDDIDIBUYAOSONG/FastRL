@@ -15,8 +15,8 @@ export RAY_process_group_cleanup_enabled=true
 # RolloutSA=true  启动自适应 rollout 采样（动态收缩 rollout.n）
 # PRUNING=true    启动最大化差异的 advantage 剪枝
 # SIM_THRESHOLD   同 advantage 组内的 Token Jaccard 相似度阈值，低于该值视为不同推理路径并保留
-# worker.actor.global_batch_size=16即mini_batch_size=16，为fastrl与baseline的更新次数保持一致（因为剪枝后轨迹变少，更新次数也会变少），因此将mini_batch_size设置的更小，
-# 我们后续将对两者的update次数（例如4）作为固定参数将两者保持一致，就不需要mini_batch_size了
+# worker.actor.global_batch_size=16即mini_batch_size=16，为fastrl与baseline的policy_model更新次数保持一致（因为剪枝后轨迹变少，更新次数也会变少），因此将mini_batch_size设置的更小，
+# 我们后续将对两者的update次数（例如4）作为固定参数将两者保持一致，就不需要额外设置mini_batch_size了
 
 MODEL_PATH=pretrain_model/Qwen2.5-VL-7B-Instruct
 
