@@ -15,6 +15,13 @@ cd EasyR1-FastRL
 pip install -e .
 ```
 
+### FastRL Training
+
+```bash
+bash examples/scr/qwen2_5_vl_7b_fastrl.sh
+```
+
+
 ### Baseline Training
 
 ```bash
