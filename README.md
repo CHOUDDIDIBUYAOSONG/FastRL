@@ -3,17 +3,6 @@
   ☑️Accepted by ``NeurIPS 2026'' (CCF A)
 </p>
 
-
-### Training Speed Demo
-
-<p align="center">
-  <video src="demo_video/1.mp4" width="720" controls autoplay loop muted></video>
-</p >
-
-> If the player above does not show up (e.g. on GitHub), click here to watch:
-> https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976
-
-
 ### Training Speed Demo
 
 <p align="center">
@@ -22,6 +11,10 @@
          controls>
   </video>
 </p>
+
+
+> If the player above does not show up (e.g. on GitHub), click here to watch:
+> https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976
 
 
 ### Installation
