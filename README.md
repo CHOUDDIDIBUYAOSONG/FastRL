@@ -14,6 +14,15 @@
 > https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976
 
 
+### Training Speed Demo
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976"
+         width="720"
+         controls>
+  </video>
+</p>
+
 
 ### Installation
 
