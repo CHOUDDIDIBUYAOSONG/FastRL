@@ -4,6 +4,10 @@
 </p>
 
 ### Training Speed Demo
+<video width="720" controls playsinline>
+  <source src="./demo_video/1.mp4" type="video/mp4">
+</video>
+
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976"
