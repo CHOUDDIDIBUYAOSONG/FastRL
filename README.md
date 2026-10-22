@@ -9,10 +9,8 @@
 <p align="center">
   <video src="demo_video/1.mp4" width="720" controls autoplay loop muted></video>
 </p >
-https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976
 
 > If the player above does not show up (e.g. on GitHub), click here to watch:
-> [`demo_video/1.mp4`](demo_video/1.mp4)
 > https://github.com/user-attachments/assets/21b040dc-b5aa-4ea3-a41d-e8ff84333976
 
 
